@@ -1,4 +1,4 @@
-#Olá Eu sou  a Amanda Beatriz
+#Olá Eu sou  a Amanda
 
 
 📚Estudando Python
